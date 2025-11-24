@@ -25,4 +25,8 @@ This game allows two players to play against each other in the terminal.
 
 ## 🛠️ Code
 ```python
+harshitha292003_tictactoe.py
 
+<img width="187" height="230" alt="XOX" src="https://github.com/user-attachments/assets/df41bb18-176e-4074-9301-1d2d29fb4d79" />
+
+<img width="225" height="328" alt="XOX1" src="https://github.com/user-attachments/assets/2ca247ef-dd34-46c9-8cdb-5c52d32bba6a" />
